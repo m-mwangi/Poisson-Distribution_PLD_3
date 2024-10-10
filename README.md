@@ -2,11 +2,11 @@
 
 ## Overview
 
-Project exploring the Poisson distribution, its visualization, and implementation. A Poisson distribution is a discrete probability distribution that gives the probability of an event happening a certain number of times (k) within a given interval of time or space.
+A project exploring the Poisson distribution, its visualization, and implementation. A Poisson distribution is a discrete probability distribution that gives the probability of an event happening a certain number of times (k) within a given interval of time or space.
 
 ## Slides:
 
-- Example application && Formulas
+- Example application && Related Formulas
 - Distribution diagram
 [Link to the slides](https://www.canva.com/design/DAGTMOgmK0s/cgKByGsdOamgtnKASj9xxQ/edit?utm_content=DAGTMOgmK0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
